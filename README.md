@@ -20,12 +20,12 @@ cd vac
   If you are using a Linux machine, you can use refer to the website below.
   https://www.pendrivelinux.com/how-to-open-a-tar-file-in-unix-or-linux/
   
-  a. From the terminal, change to the directory where yourfile.tar has been downloaded.
-  b. Type tar -xvf yourfile.tar to extract the file to the current directory.
-  c. Or tar -C /myfolder -xvf yourfile.tar to extract to another directory
+  - From the terminal, change to the directory where yourfile.tar has been downloaded.
+  - Type tar -xvf yourfile.tar to extract the file to the current directory.
+  - Or tar -C /myfolder -xvf yourfile.tar to extract to another directory
   
 	- __Mac__: 
-	Mac authomatically unzip .tar files.
+	Mac authomatically unzips .tar files.
   
 	- __Windows__:  
 	If you are using a Windows machine, you can use [WinZip](https://www.winzip.com/win/en/tar-file.html) to extract the folder.
