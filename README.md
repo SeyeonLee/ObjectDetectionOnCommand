@@ -11,7 +11,7 @@ Welcome to Seyeon's Convolutional Neural Networks (CNN) Capstone project in the 
 
 1. Clone the repository and navigate to the downloaded folder.
 ```	
-git clone https://github.com/SeyeonLee/VoiceAssistedCamera.git
+git clone https://github.com/SeyeonLee/ObjectDetectionOnCommand.git
 cd vac
 ```
 
