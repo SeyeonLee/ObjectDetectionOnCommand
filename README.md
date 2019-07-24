@@ -1,5 +1,5 @@
-# VoiceAssistedCamera
-Object Detection with Voice Command
+# ObjectDetectionOnCommand
+Object Detection with transfer learning
 ## Project Overview
 
 Welcome to Seyeon's Convolutional Neural Networks (CNN) Capstone project in the AI Nanodegree! This project will explore how to detect different objects in a real-time video and follow voice commands provided by users.
