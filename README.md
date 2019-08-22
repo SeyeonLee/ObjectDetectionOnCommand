@@ -1,4 +1,4 @@
-# ObjectDetectionOnCommand
+# ObjectDetectionOnCommand (Incomplete)
 Object Detection with transfer learning
 ## Project Overview
 
