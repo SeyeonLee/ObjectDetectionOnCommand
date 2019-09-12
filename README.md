@@ -1,4 +1,4 @@
-# ObjectDetectionOnCommand (Incomplete)
+# ObjectDetectionOnCommand
 Object Detection with transfer learning
 ## Project Overview
 
@@ -12,7 +12,6 @@ Welcome to Seyeon's Convolutional Neural Networks (CNN) Capstone project in the 
 1. Clone the repository and navigate to the downloaded folder.
 ```	
 git clone https://github.com/SeyeonLee/ObjectDetectionOnCommand.git
-cd odoc
 ```
 
 2. Download the [PASCAL VOC 2012 Training/Validation Data](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit). Unzip the folder and place it in the repo.
