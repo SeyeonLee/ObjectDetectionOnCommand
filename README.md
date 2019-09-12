@@ -2,7 +2,10 @@
 Object Detection with transfer learning
 ## Project Overview
 
-Welcome to Seyeon's Convolutional Neural Networks (CNN) Capstone project in the AI Nanodegree! This project will explore how to detect different objects in a real-time video and follow voice commands provided by users.
+Welcome to Seyeon's Convolutional Neural Networks (CNN) Capstone project in the AI Nanodegree! This project will explore how to detect different objects and localize in images.
+Object detection is a technology that detects objects, classify, and locate them in an image. Many ideas have been proposed for this task. Region proposals is a method that allows Convolutional Neural Network, also known as CNN, to detect objects among many cropped regions with help of selective search (Uijlings et al, “Selective Search for Object Recognition”, IJCV 2013) .  CNN is a state-of-the-art algorithm for computer vision that works with image pixels and the data they inherit. By detecting edges, depth, colors, and many other features of images, CNN can identify shapes and motions. Models like RCNN (Region-based Convolutional Neural Networks)  and YOLO (You Only Look Once) make use of these algorithms and accomplish high accuracy on object detection tasks.
+This project will explore different CNN models using transfer learning, a method that uses a pre-trained neural network and adapt the model to perform different tasks with different dataset, and design a model that can find different objects and locate them with precision. PASCAL VOC (Visual Object Classes) 2012 dataset  will be in use of training models, and the model will be tested on the validation set provided by PASCAL VOC Challenge.
+
 
 
 ## Project Instructions
