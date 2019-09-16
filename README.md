@@ -8,6 +8,14 @@ This project will explore different CNN models using transfer learning, a method
 
 ## Project Instructions
 
+### Using AWS GPU
+
+1. Launch an GPU instance. In this case, I used p2.xlarge instance.
+2. Login to the instance, following the instructions on the documents/howtologintoEC2.pdf
+3. In order to login on Windows, two programs are useful: PuTTy and WinSCP.
+PuTTy download link: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+WinSCP download link: https://winscp.net/eng/download.php
+
 ### Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
@@ -30,5 +38,5 @@ git clone https://github.com/SeyeonLee/ObjectDetectionOnCommand.git
 	- __Windows__:  
 	If you are using a Windows machine, you can use [WinZip](https://www.winzip.com/win/en/tar-file.html) to extract the folder.
 
-3. Place all the folders and data in "/home/ubuntu/VocDevkit/" and run the ObjectDetectionOnCommand.ipynb.
+3. Place all the folders and files in "/home/ubuntu/VocDevkit/" and run the ObjectDetectionOnCommand.ipynb.
 
